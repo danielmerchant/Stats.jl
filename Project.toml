@@ -1,0 +1,4 @@
+name = "Stats"
+uuid = "04ac60d0-c6b5-11e8-1c75-ffd5ad4af487"
+authors = ["danielmerchant <daniel.t.merchant@gmail.com>"]
+version = "0.1.0"
